@@ -19,4 +19,8 @@ I enjoy working on real-world data projects and exploring ways to solve business
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=ankito090&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 # 📈 Contributions:
-<img src="https://raw.githubusercontent.com/ankito090/ankito090/output/snake.svg" alt="Snake animation" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ankito090/ankito090/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ankito090/ankito090/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/ankito090/ankito090/output/github-snake.svg" />
+</picture>
