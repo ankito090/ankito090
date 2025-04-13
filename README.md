@@ -21,4 +21,4 @@ I enjoy working on real-world data projects and exploring ways to solve business
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/ankito090/ankito090/output/snake.svg" alt="Snake animation" />
