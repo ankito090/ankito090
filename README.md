@@ -1,4 +1,4 @@
-# Hello World! I'm Ankit Akash Kalita, an Aspiring Data Analyst 📊
+# Hello World! I'm Ankit Akash Kalita, an Aspiring Data Analyst 🧑‍💻
 
 I'm currently building my portfolio by learning and working with:
 - **Spreadsheet software** (Microsoft Excel, Google Sheets)
@@ -18,7 +18,5 @@ I enjoy working on real-world data projects and exploring ways to solve business
 ![](https://nirzak-streak-stats.vercel.app/?user=ankito090&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=ankito090&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
+# 📈 Contributions:
 <img src="https://raw.githubusercontent.com/ankito090/ankito090/output/snake.svg" alt="Snake animation" />
