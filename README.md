@@ -2,6 +2,8 @@
 
 # Hello World! I'm Ankit Akash Kalita, an Aspiring Data Analyst 🧑‍💻
 
+<img align="right" alt="mario" width="380" height="270" src="mario.gif">
+
 I'm currently building my portfolio by learning and working with:
 - **Spreadsheet software** (Microsoft Excel, Google Sheets)
 - **Databases** (SQLite, PostgreSQL)
