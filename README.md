@@ -1,3 +1,5 @@
+<img src="github-header-image.png" alt="GitHub Banner" width="100%" />
+
 # Hello World! I'm Ankit Akash Kalita, an Aspiring Data Analyst 🧑‍💻
 
 I'm currently building my portfolio by learning and working with:
