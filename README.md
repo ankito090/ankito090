@@ -17,7 +17,6 @@ I enjoy working on real-world data projects and exploring ways to solve business
 
 # 📊 GitHub Stats:
 ![](https://nirzak-streak-stats.vercel.app/?user=ankito090&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=ankito090&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 # 📈 Contributions:
 <picture>
